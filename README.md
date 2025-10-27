@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BriannahC18
+- 👋 Hi, I’m @BriannahC21
 - 👀 I’m interested in ... exploring my coding journey further and jumpstarting my career as a full-stack software engineer. 
 - 🌱 I’m currently learning ... JavaScript & Portfolio Projects.
 - 💞️ I’m looking to collaborate on ... Everything ... anything ....
